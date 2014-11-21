@@ -1,0 +1,4 @@
+pyDVDRip
+========
+
+Rip dvds
